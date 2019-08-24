@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Primer cambio");
+            Console.WriteLine("Segundo cambio");
+            Console.WriteLine("Tercer cambio");
         }
     }
 }
